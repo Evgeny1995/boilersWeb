@@ -1,0 +1,35 @@
+.boilers_makers__container {
+max-width: 1200px;
+margin: 150px auto 0 auto;
+padding: 0 5px;
+}
+
+.boilers_makers__title {
+  font-family: "Gilroy", serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30px;
+  color: #21CAAB;
+  margin: 0 0 118px 0;
+}
+
+.boilers_makers__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 29px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.item {
+margin-bottom: 30px;
+
+}
+
+.item_img {
+  width: 380px;
+}
