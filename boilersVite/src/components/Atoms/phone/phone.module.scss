@@ -1,17 +1,17 @@
-.location_container {
+.phone_container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 14px;
+  gap: 11px;
   margin: 0 0 0 auto;
 }
 
-.location_icon {
-  width: 24px;
+.phone_svg {
+  width: 15px;
   height: 31px;
 }
 
-.location_text {
+.phone_text {
   font-family: "Gilroy", serif;
   font-size: 16px;
   font-style: normal;
