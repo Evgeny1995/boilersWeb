@@ -1,0 +1,19 @@
+.urgent_call__container {
+  max-width: 1200px;
+  padding: 0 5px;
+  margin: 150px auto 170px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.urgent_call__title {
+  font-family: "Gilroy", serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30px;
+  color: #21CAAB;
+  text-align: center;
+  margin-bottom: 64px;
+  width: 100%;
+}
